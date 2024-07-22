@@ -114,7 +114,7 @@ Their corresponding Medusa heads are included in the `medusa` directory of the r
 If you find our work useful, please consider citing APAR:
 
 ```tex
-@misc{liu2024aparllmsautoparallelautoregressive,
+@misc{liu2024apar,
       title={APAR: LLMs Can Do Auto-Parallel Auto-Regressive Decoding}, 
       author={Mingdao Liu and Aohan Zeng and Bowen Wang and Peng Zhang and Jie Tang and Yuxiao Dong},
       year={2024},
